@@ -1,0 +1,9 @@
+// ===================
+// grid-1
+// ===================
+.grid-1 {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, 300px);
+    grid-gap: 2rem;
+    justify-content: center;
+}

@@ -1,0 +1,3 @@
+header {
+  z-index: map.get($z-indexes, "header");
+}

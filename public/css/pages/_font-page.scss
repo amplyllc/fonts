@@ -1,0 +1,21 @@
+#font {
+    width: 85%;
+}
+#about {
+    div p {
+        padding: 1rem 0;
+    }
+}
+#styles {
+    padding: 2rem;
+    div input {
+        font-size: 2.3rem;
+        border: none;
+    }
+}
+.font-list {
+    height: 100vh;
+    width: 15%;
+    padding: 0rem 2rem;
+    overflow: scroll;
+}

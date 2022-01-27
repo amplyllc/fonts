@@ -1,0 +1,32 @@
+// Color Classes
+.text-primary {
+  color: map.get($theme-colors, 'primary');
+}
+.text-secondary {
+  color: map.get($theme-colors, 'secondary');
+}
+.text-background {
+  color: map.get($theme-colors, 'background');
+}
+.text-accent {
+  color: map.get($theme-colors, 'accent') !important;
+}
+.text-grey {
+  color: map.get($theme-colors, 'grey');
+}
+.bg-primary {
+  background-color: map.get($theme-colors, 'primary');
+}
+.bg-secondary {
+  background-color: map.get($theme-colors, 'secondary');
+}
+.bg-accent {
+  background-color: map.get($theme-colors, 'accent');
+}
+.bg-background {
+  background-color: map.get($theme-colors, 'background');
+}
+.cat {
+  color: #CCCCCC;
+}
+
