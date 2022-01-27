@@ -1,0 +1,17 @@
+---
+fontId: "bokor"
+fontName: "Bokor"
+subsets: ["khmer", "latin"]
+weights: [400]
+styles: ["normal"]
+designer: "Danh Hong"
+license: "OFL"
+category: "DISPLAY"
+---
+
+<p>
+Bokor is a display Khmer font, suitable for headlines, titles, subtitles, and even banner designs.
+</p>
+<p>
+To contribute, see <a href="https://github.com/danhhong/Bokor">github.com/danhhong/Bokor</a>.
+</p>

@@ -1,0 +1,17 @@
+---
+fontId: "angkor"
+fontName: "Angkor"
+subsets: ["khmer", "latin"]
+weights: [400]
+styles: ["normal"]
+designer: "Danh Hong"
+license: "OFL"
+category: "DISPLAY"
+---
+
+<p>
+Angkor is a Khmer font for headlines and even banner designs.
+</p>
+<p>
+To contribute, see <a href="https://github.com/danhhong/Angkor">github.com/danhhong/Angkor</a>.
+</p>

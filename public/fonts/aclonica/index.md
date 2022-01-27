@@ -1,0 +1,13 @@
+---
+fontName: "Aclonica"
+fontId: "aclonica"
+designer: "Astigmatic"
+license: "APACHE2"
+category: "SANS_SERIF"
+filename: "Aclonica-Regular.ttf"
+subsets: ["latin"]
+weights: [400]
+styles: ["normal"]
+---
+
+<p>Aclonica is a strong and modern sans serif typeface with a slight deco/techno essence to it. Clean letterforms, a generous x-height for a friendlier feel and easily legible typestyle. Perfect for both display titling as well as body copy.</p>

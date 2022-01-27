@@ -1,0 +1,25 @@
+---
+fontId: "barlow-semi-condensed"
+fontName: "Barlow Semi Condensed"
+subsets: ["latin", "latin-ext", "vietnamese"]
+weights: [100, 200, 300, 400, 500, 600, 700, 800, 900]
+styles: ["italic", "normal"]
+designer: "Jeremy Tribby"
+license: "OFL"
+category: "SANS_SERIF"
+---
+
+<p>
+Barlow is a slightly rounded, low-contrast, grotesk type family.
+Drawing from the visual style of the California public, Barlow shares qualities with the state's car plates, highway signs, busses, and trains.
+</p>
+<p>
+This is the Semi Condensed family, which is part of the superfamily along with
+<a href="http://fonts.google.com/specimen/Barlow+Condensed">Condensed</a>, and
+<a href="http://fonts.google.com/specimen/Barlow">Normal</a>,
+each with 9 weights in Roman and Italic.
+</p>
+<p>
+The Barlow project is led by Jeremy Tribby, a designer based in San Francisco, USA.
+To contribute, see <a href="https://github.com/jpt/barlow">github.com/jpt/barlow</a>
+</p>

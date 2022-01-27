@@ -7,7 +7,6 @@ const markdownItToc = require('markdown-it-toc-done-right');
 module.exports = function(eleventyConfig) {
 
     eleventyConfig.addPassthroughCopy('./src/css');
-    eleventyConfig.addPassthroughCopy('./src/fonts');
     eleventyConfig.addPassthroughCopy('./src/assets');
     eleventyConfig.addPassthroughCopy('./src/admin');
 
