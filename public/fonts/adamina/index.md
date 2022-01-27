@@ -1,0 +1,26 @@
+---
+fontName: "Adamina"
+fontId: "adamina"
+designer: "Cyreal"
+license: "OFL"
+category: "SERIF"
+subsets: ["latin"]
+weights: [400]
+styles: ["normal"]
+---
+
+<p>
+Adamina is a typeface designed for text setting in small sizes. 
+For this purpose the x-height is increased and contrast lowered. 
+Proportions are transitional and compact. 
+Refined design features like one-sided flaring and asymmetrical serifs are there to provide a pleasant reading experience.
+</p>
+<p>
+Designed by Alexei Vanyashin for Cyreal.
+</p>
+<p>
+To contribute to the project, visit <a href="https://github.com/cyrealtype/Adamina">github.com/cyrealtype/Adamina</a>
+</p>
+<p>
+<b>Updated:</b> January 2016 to Version 1.012, to correct GPOS table (enabling kerning.)
+</p>
